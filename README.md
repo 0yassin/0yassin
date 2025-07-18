@@ -1,11 +1,11 @@
 ### Hey there 👋 I'm Yassin
 
-I'm a self-taught developer building cool tools, games, and websites.
+I'm a 16 year old moroccan self-taught developer building cool tools, games, and websites.
 ---
 
 🛠️ **Tech I Use:**
 - Frontend: HTML, CSS, JavaScript, React, Tailwind, NextJS, ReactNative
-- Backend: Node.js, Python
+- Backend: Node.js, Python, C#
 - Other: Supabase, Unity
 
 ---
